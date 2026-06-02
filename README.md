@@ -18,4 +18,4 @@ A system monitoring tool written in Go that collects and displays real-time syst
 - Docker containerization
 
 ## Author
-Daryan - github.com/DaryanOps
+[DaryanOps](https://github.com/DaryanOps)
